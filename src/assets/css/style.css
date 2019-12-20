@@ -1,0 +1,16 @@
+.jumbotron{
+	padding: 12px;
+}
+.space{
+	margin-top: 12px;
+}
+.req{
+	color: red;
+	text-decoration: bold;
+}
+.infoTable{
+	width: 25%;
+}
+.loading{
+	display: none;
+}
